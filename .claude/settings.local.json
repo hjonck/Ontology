@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(echo $0)",
+      "mcp__brave-search__brave_web_search",
+      "WebFetch(domain:support.telnyx.com)",
+      "WebFetch(domain:telnyx.com)",
+      "WebFetch(domain:developers.telnyx.com)",
+      "mcp__context7__resolve-library-id",
+      "mcp__context7__get-library-docs",
+      "Bash(mkdir:*)",
+      "mcp__github__create_repository",
+      "Bash(git init:*)",
+      "Bash(git remote add:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": []
+  }
+}

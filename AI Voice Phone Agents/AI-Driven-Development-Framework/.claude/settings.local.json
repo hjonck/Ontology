@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__google-search__search",
+      "Bash(mkdir:*)"
+    ],
+    "deny": []
+  }
+}

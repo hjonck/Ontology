@@ -1,0 +1,277 @@
+{
+  "main": {
+    "id": "109e7d997fbb4ce8",
+    "type": "split",
+    "children": [
+      {
+        "id": "054adedf533ea2ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7c81dec5ec7b100",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Voice Phone Agents/Telnyx SIP Integration for South Africa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Telnyx SIP Integration for South Africa"
+            }
+          },
+          {
+            "id": "eaf8001f04aacf80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Voice Phone Agents/AI-Driven-Development-Framework/Meta-Framework-Integration/CLAUDE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CLAUDE"
+            }
+          },
+          {
+            "id": "7954fff871a69b66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Voice Phone Agents/AI-Driven-Development-Framework/Meta-Framework-Integration/Academic-Paper-Specification.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Academic-Paper-Specification"
+            }
+          },
+          {
+            "id": "b8d4570cc92bb3ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Voice Phone Agents/AI-Driven-Development-Framework/Meta-Framework-Integration/Session-Continuation-Blog-Article-Brief.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session-Continuation-Blog-Article-Brief"
+            }
+          },
+          {
+            "id": "3fc9505a46a1635a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Voice Phone Agents/AI-Driven-Development-Framework/Meta-Framework-Integration/From-Ontological-Crisis-to-Systematic-Solution-Blog-Article.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "From-Ontological-Crisis-to-Systematic-Solution-Blog-Article"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6dde07920ce8988",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e6d83d2152b6639",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2873f617d5722dd4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6ea9376d533361a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fdb3bf1803868bb6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280.5
+  },
+  "right": {
+    "id": "90c5c14e2b043c73",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6204848be3fa25e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "642b4a67303d14c5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "9bbfe1f0e0217cd0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AI Voice Phone Agents/AI-Driven-Development-Framework/Meta-Framework-Integration/From-Ontological-Crisis-to-Systematic-Solution-Blog-Article.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for From-Ontological-Crisis-to-Systematic-Solution-Blog-Article"
+            }
+          },
+          {
+            "id": "38b44210fdea8a46",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AI Voice Phone Agents/Research VAPI and Twilio.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Research VAPI and Twilio"
+            }
+          },
+          {
+            "id": "cfb4cf99caeb7907",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "82183dccddd858c6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AI Voice Phone Agents/AI-Driven-Development-Framework/Meta-Framework-Integration/From-Ontological-Crisis-to-Systematic-Solution-Blog-Article.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of From-Ontological-Crisis-to-Systematic-Solution-Blog-Article"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 458.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3fc9505a46a1635a",
+  "lastOpenFiles": [
+    "commit-message-draft.md",
+    "AI Voice Phone Agents/AI-Driven-Development-Framework/Meta-Framework-Integration/Session-Continuation-Blog-Article-Brief.md",
+    "AI Voice Phone Agents/AI-Driven-Development-Framework/Meta-Framework-Integration/From-Ontological-Crisis-to-Systematic-Solution-Blog-Article.md",
+    "AI Voice Phone Agents/AI-Driven-Development-Framework/Meta-Framework-Integration/Building AI-Ready Architecture Case Study.md",
+    "AI Voice Phone Agents/AI-Driven-Development-Framework/Meta-Framework-Integration/𝗧𝗵𝗲 𝗵𝗮𝗿𝗱𝗲𝘀𝘁 𝗽𝗮𝗿𝘁 𝗼𝗳 𝗔𝗜 𝗶𝘀𝗻'𝘁 𝘁𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹. 𝗜𝘁'𝘀 𝗼𝗻𝘁𝗼𝗹𝗼𝗴𝗶𝗰𝗮𝗹. (Summary).md",
+    "AI Voice Phone Agents/AI-Driven-Development-Framework/Meta-Framework-Integration/Academic-Paper-Specification.md",
+    "AI Voice Phone Agents/AI-Driven-Development-Framework/Meta-Framework-Integration/Immediate-Action-Plan.md",
+    "AI Voice Phone Agents/AI-Driven-Development-Framework/Meta-Framework-Integration/CLAUDE.md",
+    "AI Voice Phone Agents/Hardy's Notes.md",
+    "AI Voice Phone Agents/AI-Driven-Development-Framework/Meta-Framework-Integration/Research-Validation-and-Context-Optimization-Analysis.md",
+    "AI Voice Phone Agents/AI-Driven-Development-Framework/Meta-Framework-Integration/Meta-Framework-Integration-Report.md",
+    "AI Voice Phone Agents/AI-Driven-Development-Framework/Knowledge-Management/Semantic-Ontology-Framework.md",
+    "AI Voice Phone Agents/AI-Driven-Development-Framework/Templates-and-Standards/Pattern-Library-Catalog.md",
+    "AI Voice Phone Agents/AI-Driven-Development-Framework/Templates-and-Standards/Quality-Validation-Checklists.md",
+    "AI Voice Phone Agents/AI-Driven-Development-Framework/Meta-Framework-Integration",
+    "AI Voice Phone Agents/AI-Driven-Development-Framework/Templates-and-Standards/Deliverable-Specifications.md",
+    "AI Voice Phone Agents/AI-Driven-Development-Framework/Templates-and-Standards/Agent-Context-Templates.md",
+    "AI Voice Phone Agents/AI-Driven-Development-Framework/Handoff-Processes/Quality-Feedback-Loop-Process.md",
+    "AI Voice Phone Agents/AI-Driven-Development-Framework/Handoff-Processes/Cross-Session-Continuity-Protocol.md",
+    "AI Voice Phone Agents/AI-Driven-Development-Framework/Handoff-Processes/Development-to-QA-Handoff.md",
+    "AI Voice Phone Agents/AI-Driven-Development-Framework/Handoff-Processes/Architecture-to-Development-Handoff.md",
+    "AI Voice Phone Agents/AI-Driven-Development-Framework/Team-Roles-and-Contexts/Architect-Context-Specification.md",
+    "AI Voice Phone Agents/AI-Driven-Development-Framework/Quality-Assurance/Compliance-and-Security-Standards.md",
+    "AI Voice Phone Agents/AI-Driven-Development-Framework/Quality-Assurance/Performance-Benchmarking-Framework.md",
+    "AI Voice Phone Agents/AI-Driven-Development-Framework/Quality-Assurance/Testing-Automation-Specifications.md",
+    "AI Voice Phone Agents/AI-Driven-Development-Framework/CONTINUATION-INSTRUCTIONS.md",
+    "AI Voice Phone Agents/AI-Driven-Development-Framework/Quality-Assurance/Quality-Gate-Framework.md",
+    "AI Voice Phone Agents/AI-Driven-Development-Framework/Templates-and-Standards",
+    "AI Voice Phone Agents/AI-Driven-Development-Framework/Handoff-Processes",
+    "AI Voice Phone Agents/AI-Driven-Development-Framework/Quality-Assurance",
+    "AI Voice Phone Agents/AI-Driven-Development-Framework/Knowledge-Management",
+    "AI Voice Phone Agents/AI-Driven-Development-Framework/Team-Roles-and-Contexts",
+    "AI Voice Phone Agents/AI-Driven-Development-Framework",
+    "Untitled.canvas",
+    "AI Voice Phone Agents/Telnyx SIP Integration for South Africa.md.tmp.6555.1752338103389",
+    "AI Voice Phone Agents/Setup Twilio And VAPI with Trunk.md.tmp.6555.1752337049224",
+    "Obsidian"
+  ]
+}
